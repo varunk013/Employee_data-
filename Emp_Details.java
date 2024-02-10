@@ -19,6 +19,8 @@ public class Emp_Details  {
         System.out.println("Name: " + name);
         System.out.println("Date of Joining (DOJ): " + doj);
         System.out.println("Department ID: " + departmentId);     
+
+        
         
         scanner.close();
     }
